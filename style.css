@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+.heading {
+    width: 80%;
+    font-size: 20px;
+}
+.items {
+    color: darkgreen;
+}
+#camera {
+    width: 350px;
+    height:300px;
+    border: 2px dashed black;
+}
+#result {
+    width: 350px;
+    height: 300px;
+}
